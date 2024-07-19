@@ -9,3 +9,7 @@ commit --> save your files in Git
 push --> upload Git commits to a remote repo
 
 pull --> download changes from remote repo
+
+## Change on Local Machine
+
+
