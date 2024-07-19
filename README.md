@@ -12,4 +12,6 @@ pull --> download changes from remote repo
 
 ## Change on Local Machine
 
+## Local Development
 
+1. Open index.html in browser
